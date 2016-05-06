@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\spotlight.o
+./release\vertex.o
+./release\vertexcol.o
+./release\vertextex.o
+./release\teapot.o
+./release\vboplane.o
+./release\torus.o
+./release\qrc_shaders.o
+./release\moc_spotlight.o
+);

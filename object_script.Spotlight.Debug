@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\spotlight.o
+./debug\vertex.o
+./debug\vertexcol.o
+./debug\vertextex.o
+./debug\teapot.o
+./debug\vboplane.o
+./debug\torus.o
+./debug\qrc_shaders.o
+./debug\moc_spotlight.o
+);
